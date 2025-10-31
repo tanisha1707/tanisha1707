@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanisha1707&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
-<p align="center"> <a href="(https://holopin.me/tanisha1707)](https://holopin.io/@tanisha1707)"> <img src="https://holopin.me/@tanisha1707" alt="@tanisha1707 Holopin board"/> </a> </p>
+
 
 ### 🏆 **Achievements**
 - 🥇 **Hack the Mountains 5.0** — Built *Franchise Navigator* (AI-powered franchise management system)  
