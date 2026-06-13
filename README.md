@@ -1,86 +1,119 @@
-<h1 align="center">Hi 👋, I'm Tanisha Dhakad</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Next.js | IoT Enthusiast | Open Source Contributor</h3>
+# Hey, I'm Tanisha 👋
+
+Full Stack Developer based in Indore. I build real products — not just projects.  
+Currently shipping at **Maxcode IT Solutions** with MERN + Next.js + AI integrations.  
+**SIH 2025 National Winner** · Top 90/5000 at IIT BHU Web Dev Battle · 8x Hackathon participant.
+
+Open to **freelance work** and interesting problems. → tanishadhakad17@gmail.com
+
+---
+
+## What I Actually Build
+
+Not todo apps. Not weather widgets.
+
+- **AI-powered web platforms** with real auth, real roles, real data
+- **Offline-capable AI systems** (built one for ISRO astronauts — yes, really)
+- **Full stack SaaS products** from database schema to production deployment
+- **Client-facing web apps** deployed on AWS + Vercel + Hostinger
+
+---
+
+## Stack
+
+```
+Frontend   →  React.js · Next.js 15 · TypeScript · Tailwind CSS · ShadCN/UI
+Backend    →  Node.js · Express.js · REST APIs · JWT Auth
+Database   →  MongoDB · PostgreSQL · MySQL · Supabase · Firebase
+DevOps     →  AWS · Vercel · Hostinger · Docker · CI/CD · Git
+Mobile     →  React Native · Expo
+```
+
+---
+
+## Projects Worth Looking At
+
+### 🛰️ Maitri AI — AI Assistant for Astronaut Well-Being
+> Built for ISRO under Smart India Hackathon 2025 — **National Winner**
+
+An offline multimodal AI system that monitors astronauts' psychological and physiological health using voice tone analysis and facial expression detection. Works on a standalone system with zero internet dependency — built for space missions.
+
+`Python` `Multimodal AI` `Offline ML` `Emotion Detection`
+
+[View Project →](#) <!-- add repo link -->
+
+---
+
+### 🏠 AI-Powered Real Estate SaaS Platform
+> Production-grade. Not a demo.
+
+Full property management platform with CRM workflows, lead tracking, booking systems, and subscription billing. Role-based access across 5 user types (Admin, Manager, Agent, Staff, Customer) with analytics dashboards.
+
+`Next.js 15` `React 19` `TypeScript` `TensorFlow.js` `Firebase` `JWT`
+
+[View Project →](#) <!-- add repo link -->
+
+---
+
+### 💳 Jio Finserv — Digital Financial Services Platform
+> Fintech dashboard handling loans, investments, insurance and account operations
+
+Secure full stack fintech platform with JWT auth, role-based access, RESTful APIs, and real-time transaction tracking. Built for scale with clean architecture across all layers.
+
+`Next.js` `Node.js` `MongoDB` `TypeScript` `Tailwind CSS`
+
+[View Project →](#) <!-- add repo link -->
+
+---
+
+### 🌐 TEDxIPSA Official Website
+> Built solo. Live. Serving the Indore TEDx community.
+
+`MERN Stack` · [Live Site →](#) <!-- add live link -->
+
+---
+
+### 🌐 GDSC IPS Academy Official Website
+> Built end-to-end solo. Live.
+
+`MERN Stack` · [Live Site →](#) <!-- add live link -->
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | Smart India Hackathon 2025 — National Winner (ISRO problem statement) |
+| 🏆 | Top 90 out of 5000+ — Web Dev Battle by IIT BHU |
+| 🥇 | UDAAN — B.Tech Major Project Winner (2026) |
+| 🥇 | UDAAN — B.Tech Minor Project Winner (2025) |
+| 🏅 | Hack the Mountains 5.0 — Marwadi University |
+| 🏅 | MUJHackX — Manipal University Jaipur |
+
+---
+
+## Currently
+
+- 🔨 Shipping full stack + AI projects at **Maxcode IT Solutions**
+- 📱 Creating dev content at **[@thecurlycoder](https://instagram.com/thecurlycoder)** on Instagram
+- 📖 Going deeper into **AI integrations + Next.js architecture**
+- 💼 Open to **freelance projects** — reach out if you have something interesting
+
+---
+
+## Let's Talk
+
+If you have a project, a role, or just want to talk tech:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanishadhakad-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanishadhakad)
+[![Instagram](https://img.shields.io/badge/Instagram-thecurlycoder-E4405F?style=flat-square&logo=instagram)](https://instagram.com/thecurlycoder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanishaportfolio-black?style=flat-square&logo=vercel)](https://tanishaportfolio-ten.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-tanishadhakad17@gmail.com-red?style=flat-square&logo=gmail)](mailto:tanishadhakad17@gmail.com)
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanisha1707&label=Profile%20Views&color=0e75b6&style=flat" alt="tanisha1707" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=flat-square&logo=hackerrank" alt="Hacktoberfest Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%23FF4088.svg?style=flat-square&logo=github" alt="open-source" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha1707&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
----
-
-### 🌟 **About Me**
-- 🎓 Pursuing **B.Tech in Computer Science (IoT specialization)** from [IPS Academy, Indore](https://www.linkedin.com/in/tanishadhakad/)
-- 💼 **Core Team Member (Web Developer)** at **GDSC IPS Academy**
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **IoT-based System Integration**
-- 💡 I’m passionate about **AI + Web Integration** and creating impactful products for real-world problems  
-- 🧠 Open Source & **Hacktoberfest 2025** Contributor  
-- 👯 I’m looking to collaborate on **Full Stack Web Apps**, **AI + IoT projects**, and **Open Source** initiatives
-- 🤝 Looking for help with **developing scalable SaaS platforms**
-- 🧾 Check out all my projects at: [tanishaportfolio-ten.vercel.app](https://tanishaportfolio-ten.vercel.app/)
-- 💬 Ask me about: **Web Dev**, **Next.js**, **Java**, **Python**, or **IoT Systems**
-- ✉️ Reach me at: **tanishadhakad17@gmail.com**
-- ⚡ *I think I’m funny — until my code throws errors 😅*
-
----
-
-### 🤝 **Connect With Me**
-<p align="left">
-<a href="https://twitter.com/keepupwithtannz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
-<a href="https://linkedin.com/in/tanishadhakad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
-<a href="https://instagram.com/tanzintech" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
-<a href="https://www.leetcode.com/codewithtanisha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/></a>
-</p>
-
----
-
-### 🧰 **Languages and Tools**
-<p align="center">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="45" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45" /></a>
-</p>
-
----
-### 🌈 **Fun Add-ons**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanisha1707&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-<p align="center"> <a href="(https://holopin.me/tanisha1707)](https://holopin.io/@tanisha1707)"> <img src="https://holopin.me/tanisha1707" alt="@tanisha1707 Holopin board"/> </a> </p>
-
-### 🏆 **Achievements**
-- 🥇 **Hack the Mountains 5.0** — Built *Franchise Navigator* (AI-powered franchise management system)  
-- 🥈 **MUJHackX** — Built *Amazon PM Dashboard* (fraud detection + predictive analysis)  
-- 💡 **Hacktoberfest 2025 Contributor** — Actively contributing React components to open-source repositories  
-- 💬 **Event Management Lead**  — Managed tech events organised in college like *Web3 Sangam* & *Bad Talks*
-
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha1707&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-### 🎯 **Quote I Live By**
-> *“Build. Break. Learn. Repeat. Every project makes you a better developer.”*  
-
-
-<h4 align="center">💬 Let's build something amazing together!</h4>
