@@ -40,7 +40,7 @@ An offline multimodal AI system that monitors astronauts' psychological and phys
 
 `Python` `Multimodal AI` `Offline ML` `Emotion Detection`
 
-[View Project →](#) <!-- add repo link -->
+
 
 ---
 
@@ -51,34 +51,11 @@ Full property management platform with CRM workflows, lead tracking, booking sys
 
 `Next.js 15` `React 19` `TypeScript` `TensorFlow.js` `Firebase` `JWT`
 
-[View Project →](#) <!-- add repo link -->
-
----
-
-### 💳 Jio Finserv — Digital Financial Services Platform
-> Fintech dashboard handling loans, investments, insurance and account operations
-
-Secure full stack fintech platform with JWT auth, role-based access, RESTful APIs, and real-time transaction tracking. Built for scale with clean architecture across all layers.
-
-`Next.js` `Node.js` `MongoDB` `TypeScript` `Tailwind CSS`
-
-[View Project →](#) <!-- add repo link -->
-
----
 
 ### 🌐 TEDxIPSA Official Website
 > Built solo. Live. Serving the Indore TEDx community.
 
-`MERN Stack` · [Live Site →](#) <!-- add live link -->
-
----
-
-### 🌐 GDSC IPS Academy Official Website
-> Built end-to-end solo. Live.
-
-`MERN Stack` · [Live Site →](#) <!-- add live link -->
-
----
+`MERN Stack` 
 
 ## Achievements
 
@@ -96,7 +73,7 @@ Secure full stack fintech platform with JWT auth, role-based access, RESTful API
 ## Currently
 
 - 🔨 Shipping full stack + AI projects at **Maxcode IT Solutions**
-- 📱 Creating dev content at **[@thecurlycoder](https://instagram.com/thecurlycoder)** on Instagram
+- 📱 Creating dev content at **[@thecurlycoder](https://instagram.com/thecurlyycoder)** on Instagram
 - 📖 Going deeper into **AI integrations + Next.js architecture**
 - 💼 Open to **freelance projects** — reach out if you have something interesting
 
@@ -107,7 +84,7 @@ Secure full stack fintech platform with JWT auth, role-based access, RESTful API
 If you have a project, a role, or just want to talk tech:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanishadhakad-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanishadhakad)
-[![Instagram](https://img.shields.io/badge/Instagram-thecurlycoder-E4405F?style=flat-square&logo=instagram)](https://instagram.com/thecurlycoder)
+[![Instagram](https://img.shields.io/badge/Instagram-thecurlycoder-E4405F?style=flat-square&logo=instagram)](https://instagram.com/thecurlyycoder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanishaportfolio-black?style=flat-square&logo=vercel)](https://tanishaportfolio-ten.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-tanishadhakad17@gmail.com-red?style=flat-square&logo=gmail)](mailto:tanishadhakad17@gmail.com)
 
