@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tanisha1707&style=flat-square&color=6366f1&label=Profile+Views" />
+</p>
+
 # Hey, I'm Tanisha 👋
 
 Full Stack Developer based in Indore. I build real products — not just projects.  
@@ -6,7 +10,18 @@ Currently shipping at **Maxcode IT Solutions** with MERN + Next.js + AI integrat
 
 Open to **freelance work** and interesting problems. → tanishadhakad17@gmail.com
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha1707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha1707&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 
 ## What I Actually Build
 
@@ -17,17 +32,17 @@ Not todo apps. Not weather widgets.
 - **Full stack SaaS products** from database schema to production deployment
 - **Client-facing web apps** deployed on AWS + Vercel + Hostinger
 
----
 
 ## Stack
 
-```
-Frontend   →  React.js · Next.js 15 · TypeScript · Tailwind CSS · ShadCN/UI
-Backend    →  Node.js · Express.js · REST APIs · JWT Auth
-Database   →  MongoDB · PostgreSQL · MySQL · Supabase · Firebase
-DevOps     →  AWS · Vercel · Hostinger · Docker · CI/CD · Git
-Mobile     →  React Native · Expo
-```
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
