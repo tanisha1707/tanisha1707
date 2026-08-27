@@ -169,12 +169,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha1707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha1707&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 <br><br>
 
