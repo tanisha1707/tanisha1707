@@ -185,7 +185,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&background=000000&border=1F8B4C&stroke=1F8B4C&ring=1F8B4C&fire=1F8B4C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=1F8B4C&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha1707&background=000000&border=1F8B4C&stroke=1F8B4C&ring=1F8B4C&fire=1F8B4C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=1F8B4C&hide_border=false&r=2" height="165"/>
 
 <br><br>
 
