@@ -185,10 +185,6 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha1707&theme=tokyonight&hide_border=true&ring=1F8B4C&fire=1F8B4C" height="165"/>
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg">
