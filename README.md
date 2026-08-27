@@ -7,6 +7,16 @@
 <img src="https://img.shields.io/badge/SIH_2025-National_Winner-gold?style=for-the-badge&logo=trophy&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open_to-Freelance-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=818CF8&labelColor=1a1b27&logo=github" />
+
+<br><br>
+
+<a href="#-tech-stack">Tech Stack</a> ·
+<a href="#-what-i-actually-build">Projects</a> ·
+<a href="#-achievements">Achievements</a> ·
+<a href="#-github-analytics">Analytics</a> ·
+<a href="#-lets-talk">Contact</a>
 
 </div>
 
@@ -33,7 +43,7 @@ tanisha@devbox ~ % whoami
 
 > *I don't build todo apps. I build systems that ship.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+🛰️;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+%F0%9F%9B%B0%EF%B8%8F;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
 
 <br>
 
@@ -54,20 +64,37 @@ tanisha@devbox ~ % whoami
 
 <div align="center">
 
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI/ML & Infra**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
 ## 🚀 What I Actually Build
 
@@ -144,6 +171,14 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanisha1707&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+
+</div>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
 ## 📊 GitHub Analytics
@@ -156,6 +191,14 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha1707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha1707&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 
 </div>
 
