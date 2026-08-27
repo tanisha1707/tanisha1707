@@ -27,7 +27,7 @@
 tanisha@devbox ~ % whoami
 ```
 
-**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer<br>
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Engineer<br>
 **Working at** &nbsp; Maxcode IT Solutions<br>
 **Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AI/ML<br>
 **Based in** &nbsp;&nbsp;&nbsp; Indore, India<br>
