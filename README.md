@@ -10,14 +10,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=818CF8&labelColor=1a1b27&logo=github" />
 
-<br><br>
-
-<a href="#-tech-stack">Tech Stack</a> ·
-<a href="#-what-i-actually-build">Projects</a> ·
-<a href="#-achievements">Achievements</a> ·
-<a href="#-github-analytics">Analytics</a> ·
-<a href="#-lets-talk">Contact</a>
-
 </div>
 
 <br>
