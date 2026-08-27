@@ -1,56 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanisha%20Dhakad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20Builder%20·%20Indore,%20India&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D4429,100:1F8B4C&height=210&section=header&text=Welcome%20to%20Tanisha's%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C%2F%3E%20Full%20Stack%20Engineer%20·%20DevOps%20·%20AWS%20·%20Indore,%20India&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=1F8B4C&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/badge/SIH_2025-National_Winner-gold?style=for-the-badge&logo=trophy&logoColor=white" />
+<img src="https://img.shields.io/badge/SIH_2025-National_Winner-1F8B4C?style=for-the-badge&logo=trophy&logoColor=white&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to-Freelance-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_to-Full_Stack_%2B_DevOps_Roles-1F8B4C?style=for-the-badge&logo=cloud&logoColor=white&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=818CF8&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=1F8B4C&labelColor=000000&logoColor=white&logo=github&label=FOLLOWERS" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/tanishadhakad"><img src="https://img.shields.io/badge/LinkedIn-1F8B4C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+<a href="https://instagram.com/thecurlyycoder"><img src="https://img.shields.io/badge/Instagram-1F8B4C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
+<a href="https://tanishaportfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F8B4C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
+<a href="mailto:tanishadhakad17@gmail.com"><img src="https://img.shields.io/badge/Email-1F8B4C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 
 </div>
 
 <br>
 
-<table align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+
+## 👋 About Me
+
+<table>
 <tr>
-<td width="34%" valign="middle" align="center">
+<td width="32%" valign="middle" align="center">
 
 <img src="./assets/ascii-portrait.png" width="100%"/>
 
 </td>
-<td width="66%" valign="middle">
+<td width="68%" valign="top">
 
-```yaml
-tanisha@devbox ~ % whoami
-```
+Hey, I'm **Tanisha** — a Full Stack Engineer working out of Indore, India, focused on **Full Stack + DevOps** roles. I don't just write features — I own them end-to-end: architecture, implementation, containerization, AWS deployment, and the CI/CD pipeline that ships them.
 
-**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Engineer<br>
+At **Maxcode IT Solutions**, I build full-stack + AI features and take them the whole way to production — no handoff to "someone else" for deployment. Outside of work, I compete in national hackathons — most recently taking home a **National Win at Smart India Hackathon 2025** on an ISRO problem statement.
+
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Engineer (Full Stack + DevOps)<br>
 **Working at** &nbsp; Maxcode IT Solutions<br>
-**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AI/ML<br>
+**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AWS · Docker · CI/CD<br>
 **Based in** &nbsp;&nbsp;&nbsp; Indore, India<br>
-**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to freelance work ✅
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Full Stack + DevOps roles ✅
 
-> *I don't build todo apps. I build systems that ship.*
+**🎯 End-to-End MVP Delivery**
+From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation. That's how Maitri AI and the Real Estate SaaS Platform below went from concept to shipped product.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+%F0%9F%9B%B0%EF%B8%8F;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishadhakad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thecurlyycoder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishaportfolio-ten.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishadhakad17@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=1F8B4C&background=000000&center=false&vCenter=true&width=560&height=30&lines=Building+real+products%2C+not+projects;Full+Stack+%2B+DevOps+%2B+AWS;Shipping+end-to-end%3A+code+to+cloud;Offline+AI+for+ISRO+astronauts+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
 
 </td>
 </tr>
 </table>
 
+> ⚡ **Philosophy**
+>
+> *I don't build todo apps. I build systems that ship.*
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -58,35 +67,40 @@ tanisha@devbox ~ % whoami
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F8B4C?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F8B4C?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F8B4C?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F8B4C?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1F8B4C?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1F8B4C?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-1F8B4C?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1F8B4C?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F8B4C?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1F8B4C?style=for-the-badge&logo=firebase&logoColor=white)
 
-**AI/ML & Infra**
+**Cloud & DevOps**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1F8B4C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F8B4C?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F8B4C?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1F8B4C?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F8B4C?style=for-the-badge&logo=git&logoColor=white)
+
+**AI/ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-1F8B4C?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
 
 ## 🚀 What I Actually Build
 
@@ -114,9 +128,9 @@ Offline multimodal AI system monitoring astronauts' psychological & physiologica
 <td width="50%" valign="top">
 
 ### 🏠 Real Estate SaaS Platform
-**Production-grade. Not a demo.**
+**Production-grade. Not a demo. Shipped end-to-end.**
 
-Full property management platform — CRM workflows, lead tracking, booking systems, subscription billing. Role-based access across 5 user types with live analytics dashboards.
+Full property management platform — CRM workflows, lead tracking, booking systems, subscription billing. Role-based access across 5 user types with live analytics dashboards. Designed, built, and deployed solo — from schema design to cloud hosting.
 
 `Next.js 15` `React 19` `TypeScript` `TensorFlow.js` `Firebase` `JWT`
 
@@ -144,7 +158,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -163,13 +177,13 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha1707&background=000000&border=1F8B4C&stroke=1F8B4C&ring=1F8B4C&fire=1F8B4C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=1F8B4C&hide_border=false" height="165"/>
 
 <br><br>
 
@@ -183,14 +197,15 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
 
 ## 📍 Currently
 
 - 🔨 Shipping full-stack + AI projects at **Maxcode IT Solutions**
+- ☁️ Deepening my **AWS & DevOps** practice — CI/CD, containers, and cloud deployment
+- 🎯 Actively looking for **Full Stack + DevOps** roles — open to full-time opportunities
 - 📱 Creating dev content at **[@thecurlycoder](https://instagram.com/thecurlyycoder)** on Instagram
-- 📖 Going deeper into **AI integrations + Next.js architecture**
-- 💼 Open to **freelance projects** — reach out if you have something interesting
+- 💼 Also open to **freelance projects** — reach out if you have something interesting
 
 <br>
 
@@ -200,6 +215,6 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 If you have a project, a role, or just want to talk tech — my inbox is always open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8B4C,50:0D4429,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
