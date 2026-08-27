@@ -14,7 +14,12 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="38%" valign="middle" align="center">
+
+<img src="./assets/ascii-portrait.png" width="100%"/>
+
+</td>
+<td width="62%" valign="middle">
 
 ```yaml
 tanisha@devbox ~ % whoami
@@ -38,12 +43,9 @@ status:      open_to_freelance ✅
 contact:     tanishadhakad17@gmail.com
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+🛰️;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=440&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+🛰️;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
-
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishadhakad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thecurlyycoder)
