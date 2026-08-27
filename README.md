@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D4429,100:1F8B4C&height=210&section=header&text=Welcome%20to%20Tanisha's%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C%2F%3E%20Full%20Stack%20Engineer%20·%20DevOps%20·%20AWS%20·%20Indore,%20India&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F8B4C&height=210&section=header&text=Tanisha%20Dhakad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20DevOps%20·%20AWS%20·%20Indore,%20India&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=1F8B4C&label=PROFILE+VIEWS" />
 &nbsp;
@@ -42,10 +42,10 @@ At **Maxcode IT Solutions**, I build full-stack + AI features and take them the 
 **Working at** &nbsp; Maxcode IT Solutions<br>
 **Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AWS · Docker · CI/CD<br>
 **Based in** &nbsp;&nbsp;&nbsp; Indore, India<br>
-**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Full Stack + DevOps roles ✅
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Full Stack + DevOps roles
 
 **🎯 End-to-End MVP Delivery**
-From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation. That's how Maitri AI and the Real Estate SaaS Platform below went from concept to shipped product.
+From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=1F8B4C&background=000000&center=false&vCenter=true&width=560&height=30&lines=Building+real+products%2C+not+projects;Full+Stack+%2B+DevOps+%2B+AWS;Shipping+end-to-end%3A+code+to+cloud;Offline+AI+for+ISRO+astronauts+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
 
@@ -215,6 +215,6 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 If you have a project, a role, or just want to talk tech — my inbox is always open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8B4C,50:0D4429,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8B4C,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
