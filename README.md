@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Tanisha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Indore,%20India&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanisha%20Dhakad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20Builder%20·%20Indore,%20India&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 &nbsp;
@@ -14,36 +14,26 @@
 
 <table align="center">
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="34%" valign="middle" align="center">
 
 <img src="./assets/ascii-portrait.png" width="100%"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="66%" valign="middle">
 
 ```yaml
 tanisha@devbox ~ % whoami
-
-name:        Tanisha Dhakad
-role:        Full Stack Developer
-currently:   Building @ Maxcode IT Solutions
-stack:       MERN · Next.js · TypeScript · AI/ML
-based_in:    Indore, India
-
-achievements:
-  - 🥇 SIH 2025 — National Winner (ISRO PS)
-  - 🏆 Top 90 / 5000+ — IIT BHU Web Dev Battle
-  - 🎯 8x Hackathon Participant
-
-philosophy: >
-  I don't build todo apps.
-  I build systems that ship.
-
-status:      open_to_freelance ✅
-contact:     tanishadhakad17@gmail.com
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+🛰️;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
+**Role**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer
+**Working at** &nbsp; Maxcode IT Solutions
+**Stack**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AI/ML
+**Based in** &nbsp;&nbsp;&nbsp; Indore, India
+**Status**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to freelance work ✅
+
+> *I don't build todo apps. I build systems that ship.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=818CF8&center=false&vCenter=true&width=560&lines=Building+real+products%2C+not+projects;MERN+%2B+Next.js+%2B+AI+integrations;Offline+AI+for+ISRO+astronauts+🛰️;Currently+shipping+at+Maxcode+IT" alt="Typing SVG" />
 
 <br>
 
@@ -57,6 +47,8 @@ contact:     tanishadhakad17@gmail.com
 </table>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +71,13 @@ contact:     tanishadhakad17@gmail.com
 
 ## 🚀 What I Actually Build
 
-> Not todo apps. Not weather widgets. Real products with real auth, real roles, real data.
+<div align="center">
+
+*Not todo apps. Not weather widgets. Real products with real auth, real roles, real data.*
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -127,6 +125,8 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -144,6 +144,8 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -158,6 +160,8 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
 ## 📍 Currently
 
