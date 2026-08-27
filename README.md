@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F8B4C&height=210&section=header&text=Tanisha%20Dhakad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20DevOps%20·%20AWS%20·%20Indore,%20India&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F8B4C&height=200&section=header&text=Tanisha%20Dhakad&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20DevOps%20·%20AWS%20·%20Indore,%20India&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=1F8B4C&label=PROFILE+VIEWS" />
 &nbsp;
