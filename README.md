@@ -35,11 +35,11 @@
 tanisha@devbox ~ % whoami
 ```
 
-**Role**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer
-**Working at** &nbsp; Maxcode IT Solutions
-**Stack**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AI/ML
-**Based in** &nbsp;&nbsp;&nbsp; Indore, India
-**Status**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to freelance work ✅
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer<br>
+**Working at** &nbsp; Maxcode IT Solutions<br>
+**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AI/ML<br>
+**Based in** &nbsp;&nbsp;&nbsp; Indore, India<br>
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to freelance work ✅
 
 > *I don't build todo apps. I build systems that ship.*
 
@@ -166,14 +166,6 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 | 🥇 | **UDAAN** — B.Tech Minor Project Winner (2025) |
 | 🏅 | **Hack the Mountains 5.0** — Marwadi University |
 | 🏅 | **MUJHackX** — Manipal University Jaipur |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanisha1707&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
 
 </div>
 
