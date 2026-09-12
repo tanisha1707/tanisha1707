@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF4500&height=160&section=header" width="100%"/>
+<img src="./assets/banner-hero.svg" width="100%"/>
 
-# Tanisha Dhakad
-
-**Full Stack Engineer · DevOps · AWS · Indore, India**
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS" />
 &nbsp;
@@ -25,22 +23,10 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF4500&height=3&width=1000" width="100%"/>
-
-## 👋 About Me
+<img src="./assets/banner-intro.svg" width="100%"/>
 
 <table>
-<tr>
-<td width="32%" valign="middle" align="center">
-
-<img src="./assets/ascii-portrait.png" width="100%"/>
-
-</td>
-<td width="68%" valign="top">
-
-Hey, I'm **Tanisha** — a Full Stack Engineer working out of Indore, India, focused on **Full Stack + DevOps** roles. I don't just write features — I own them end-to-end: architecture, implementation, containerization, AWS deployment, and the CI/CD pipeline that ships them.
-
-At **Maxcode IT Solutions**, I build full-stack + AI features and take them the whole way to production — no handoff to "someone else" for deployment. Outside of work, I compete in national hackathons — most recently taking home a **National Win at Smart India Hackathon 2025** on an ISRO problem statement.
+<tr><td>
 
 |   |   |
 |---|---|
@@ -53,13 +39,10 @@ At **Maxcode IT Solutions**, I build full-stack + AI features and take them the 
 **🎯 End-to-End MVP Delivery**
 From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation. That's how Maitri AI and the Real Estate SaaS Platform below went from concept to shipped product.
 
-</td>
-</tr>
-</table>
+> ⚡ **Philosophy** — *I don't build todo apps. I build systems that ship.*
 
-> ⚡ **Philosophy**
->
-> *I don't build todo apps. I build systems that ship.*
+</td></tr>
+</table>
 
 <br>
 
@@ -90,6 +73,10 @@ From idea to production, solo: system design → full-stack build → Dockerized
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
 
 </div>
+
+<br>
+
+<img src="./assets/banner-journey.svg" width="100%"/>
 
 <br>
 
@@ -203,12 +190,4 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<div align="center">
-
-### 💬 Let's Talk
-
-If you have a project, a role, or just want to talk tech — my inbox is always open.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="./assets/banner-contact.svg" width="100%"/>
