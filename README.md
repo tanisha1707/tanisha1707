@@ -42,11 +42,13 @@ Hey, I'm **Tanisha** — a Full Stack Engineer working out of Indore, India, foc
 
 At **Maxcode IT Solutions**, I build full-stack + AI features and take them the whole way to production — no handoff to "someone else" for deployment. Outside of work, I compete in national hackathons — most recently taking home a **National Win at Smart India Hackathon 2025** on an ISRO problem statement.
 
-**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Engineer (Full Stack + DevOps)<br>
-**Working at** &nbsp; Maxcode IT Solutions<br>
-**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN · Next.js · TypeScript · AWS · Docker · CI/CD<br>
-**Based in** &nbsp;&nbsp;&nbsp; Indore, India<br>
-**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Full Stack + DevOps roles ✅
+|   |   |
+|---|---|
+| **Role** | Full Stack Engineer (Full Stack + DevOps) |
+| **Working at** | Maxcode IT Solutions |
+| **Stack** | MERN · Next.js · TypeScript · AWS · Docker · CI/CD |
+| **Based in** | Indore, India |
+| **Status** | Open to Full Stack + DevOps roles ✅ |
 
 **🎯 End-to-End MVP Delivery**
 From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation. That's how Maitri AI and the Real Estate SaaS Platform below went from concept to shipped product.
@@ -68,35 +70,24 @@ From idea to production, solo: system design → full-stack build → Dockerized
 <div align="center">
 
 **Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-FF6B6B?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" />
 
 **Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FF6B6B?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
 
 **Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-FF6B6B?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-FF6B6B?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF6B6B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&theme=dark" />
 
 **AI/ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
 
 </div>
 
@@ -124,7 +115,7 @@ From idea to production, solo: system design → full-stack build → Dockerized
 
 Offline multimodal AI system monitoring astronauts' psychological & physiological health via voice tone analysis and facial expression detection. Zero internet dependency — built for space missions.
 
-`Python` `Multimodal AI` `Offline ML` `Emotion Detection`
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/Multimodal_AI-0D1117?style=flat-square&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/Offline_ML-0D1117?style=flat-square&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/Emotion_Detection-0D1117?style=flat-square&logoColor=FF6B6B"/>
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +125,7 @@ Offline multimodal AI system monitoring astronauts' psychological & physiologica
 
 Full property management platform — CRM workflows, lead tracking, booking systems, subscription billing. Role-based access across 5 user types with live analytics dashboards. Designed, built, and deployed solo — from schema design to cloud hosting.
 
-`Next.js 15` `React 19` `TypeScript` `TensorFlow.js` `Firebase` `JWT`
+<img src="https://img.shields.io/badge/Next.js_15-0D1117?style=flat-square&logo=nextdotjs&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/TensorFlow.js-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FF6B6B"/> <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FF6B6B"/>
 
 </td>
 </tr>
@@ -144,7 +135,7 @@ Full property management platform — CRM workflows, lead tracking, booking syst
 ### 🌐 TEDxIPSA Official Website
 **Built solo. Live. Serving the Indore TEDx community.**
 
-`MERN Stack`
+<img src="https://img.shields.io/badge/MERN_Stack-0D1117?style=flat-square&logoColor=FF6B6B"/>
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +143,7 @@ Full property management platform — CRM workflows, lead tracking, booking syst
 ### 💼 More on GitHub
 Check out my pinned repos for AI integrations, hackathon builds, and full-stack experiments I'm shipping right now.
 
-`+ 8 Hackathon Projects`
+<img src="https://img.shields.io/badge/%2B_8_Hackathon_Projects-0D1117?style=flat-square&logoColor=FF6B6B"/>
 
 </td>
 </tr>
@@ -162,18 +153,20 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| | Achievement |
-|:---:|---|
-| 🥇 | **Smart India Hackathon 2025** — National Winner (ISRO problem statement) |
-| 🏆 | **Top 90 / 5000+** — Web Dev Battle by IIT BHU |
-| 🥇 | **UDAAN** — B.Tech Major Project Winner (2026) |
-| 🥇 | **UDAAN** — B.Tech Minor Project Winner (2025) |
-| 🏅 | **Hack the Mountains 5.0** — Marwadi University |
-| 🏅 | **MUJHackX** — Manipal University Jaipur |
+<img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&ring_color=FF6B6B" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha1707&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" width="41%"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 
 </div>
 
@@ -181,15 +174,18 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Analytics
+## 🏆 Achievements
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
+| | Event | Result |
+|:---:|---|---|
+| 🥇 | Smart India Hackathon 2025 (ISRO problem statement) | **National Winner** |
+| 🏆 | Web Dev Battle — IIT BHU | **Top 90 / 5000+** |
+| 🥇 | UDAAN — B.Tech Major Project | **Winner (2026)** |
+| 🥇 | UDAAN — B.Tech Minor Project | **Winner (2025)** |
+| 🏅 | Hack the Mountains 5.0 | Marwadi University |
+| 🏅 | MUJHackX | Manipal University Jaipur |
 
 </div>
 
