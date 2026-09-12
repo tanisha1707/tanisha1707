@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F8B4C&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6B6B&height=160&section=header" width="100%"/>
 
 # Tanisha Dhakad
 
 **Full Stack Engineer · DevOps · AWS · Indore, India**
 
-<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=1F8B4C&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/badge/SIH_2025-National_Winner-1F8B4C?style=for-the-badge&logo=trophy&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/SIH_2025-National_Winner-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to-Full_Stack_%2B_DevOps_Roles-1F8B4C?style=for-the-badge&logo=cloud&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Open_to-Full_Stack_%2B_DevOps_Roles-FF6B6B?style=for-the-badge&logo=cloud&logoColor=white&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=1F8B4C&labelColor=000000&logoColor=white&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=FF6B6B&labelColor=0D1117&logoColor=white&logo=github&label=FOLLOWERS" />
 
 <br><br>
 
-<a href="https://linkedin.com/in/tanishadhakad"><img src="https://img.shields.io/badge/LinkedIn-1F8B4C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-<a href="https://instagram.com/thecurlyycoder"><img src="https://img.shields.io/badge/Instagram-1F8B4C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
-<a href="https://tanishaportfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F8B4C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
-<a href="mailto:tanishadhakad17@gmail.com"><img src="https://img.shields.io/badge/Email-1F8B4C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+<a href="https://linkedin.com/in/tanishadhakad"><img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://instagram.com/thecurlyycoder"><img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://tanishaportfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:tanishadhakad17@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 👋 About Me
 
@@ -61,7 +61,7 @@ From idea to production, solo: system design → full-stack build → Dockerized
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -69,40 +69,40 @@ From idea to production, solo: system design → full-stack build → Dockerized
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1F8B4C?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F8B4C?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F8B4C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B6B?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-1F8B4C?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-1F8B4C?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1F8B4C?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FF6B6B?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-1F8B4C?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1F8B4C?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1F8B4C?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1F8B4C?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B6B?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FF6B6B?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF6B6B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-1F8B4C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1F8B4C?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F8B4C?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1F8B4C?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1F8B4C?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
 
 **AI/ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-1F8B4C?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 🚀 What I Actually Build
 
@@ -160,7 +160,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -179,7 +179,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -195,7 +195,7 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F8B4C&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 📍 Currently
 
@@ -213,6 +213,6 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 If you have a project, a role, or just want to talk tech — my inbox is always open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8B4C,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
