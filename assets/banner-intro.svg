@@ -21,7 +21,7 @@
     <tspan x="60" y="460">the CI/CD pipeline that ships it. National Winner, SIH 2025.</tspan>
   </text>
 
-  <circle cx="960" cy="270" r="185" fill="#FF4500"/>
+  <circle cx="960" cy="270" r="185" fill="#E8112D"/>
   <image href="https://raw.githubusercontent.com/tanisha1707/tanisha1707/main/assets/ascii-portrait.png" x="775" y="85" width="370" height="370" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <line x1="60" y1="480" x2="1140" y2="480" stroke="#333333" stroke-width="1"/>

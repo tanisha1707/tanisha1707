@@ -6,7 +6,7 @@
   <line x1="60" y1="72" x2="1140" y2="72" stroke="#333333" stroke-width="1"/>
 
   <text x="52" y="248" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-weight="900" font-size="210" letter-spacing="-4">
-    <tspan fill="#FFFFFF">PRO</tspan><tspan fill="#FF4500">FILE</tspan>
+    <tspan fill="#FFFFFF">PRO</tspan><tspan fill="#E8112D">FILE</tspan>
   </text>
 
   <text x="60" y="308" font-family="Helvetica Neue, Arial, sans-serif" font-weight="600" font-size="22" letter-spacing="1" fill="#CCCCCC">Full Stack Engineer · DevOps · AWS · Indore, India</text>
