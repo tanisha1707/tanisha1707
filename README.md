@@ -1,146 +1,86 @@
 <div align="center">
 
-<img src="./assets/banner-hero.svg" width="100%"/>
+# tanisha1707
 
-<br><br>
+```
+$ whoami
+Tanisha Dhakad — Full Stack Engineer · DevOps · AWS · Indore, India
 
-<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=for-the-badge&color=E8112D&label=PROFILE+VIEWS" />
+$ status --check
+[ok] open to full-stack + devops roles
+[ok] national winner — smart india hackathon 2025 (isro)
+```
+
+<a href="https://linkedin.com/in/tanishadhakad"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=E8112D" /></a>
+<a href="https://instagram.com/thecurlyycoder"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=E8112D" /></a>
+<a href="https://tanishaportfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=E8112D" /></a>
+<a href="mailto:tanishadhakad17@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=E8112D" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/SIH_2025-National_Winner-E8112D?style=for-the-badge&logo=trophy&logoColor=white&labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open_to-Full_Stack_%2B_DevOps_Roles-E8112D?style=for-the-badge&logo=cloud&logoColor=white&labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/tanisha1707?style=for-the-badge&color=E8112D&labelColor=000000&logoColor=white&logo=github&label=FOLLOWERS" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/tanishadhakad"><img src="https://img.shields.io/badge/LinkedIn-E8112D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-<a href="https://instagram.com/thecurlyycoder"><img src="https://img.shields.io/badge/Instagram-E8112D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
-<a href="https://tanishaportfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E8112D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
-<a href="mailto:tanishadhakad17@gmail.com"><img src="https://img.shields.io/badge/Email-E8112D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+<img src="https://komarev.com/ghpvc/?username=tanisha1707&style=flat-square&color=E8112D&label=views" />
+<img src="https://img.shields.io/github/followers/tanisha1707?style=flat-square&color=E8112D&labelColor=000000&logoColor=white&logo=github&label=followers" />
 
 </div>
 
-<br>
+---
 
-<img src="./assets/banner-intro.svg" width="100%"/>
+### `$ cat about.md`
 
-<table>
-<tr><td>
+```
+Full Stack Engineer working out of Indore, India — focused on Full Stack + DevOps
+roles. I don't just write features, I own them end-to-end: architecture,
+implementation, containerization, AWS deployment, and the CI/CD pipeline that
+ships them.
 
-|   |   |
-|---|---|
-| **Role** | Full Stack Engineer (Full Stack + DevOps) |
-| **Working at** | Maxcode IT Solutions |
-| **Stack** | MERN · Next.js · TypeScript · AWS · Docker · CI/CD |
-| **Based in** | Indore, India |
-| **Status** | Open to Full Stack + DevOps roles ✅ |
+At Maxcode IT Solutions I build full-stack + AI features and take them the whole
+way to production, no handoff to "someone else" for deployment. Outside of work
+I compete in national hackathons — most recently a National Win at Smart India
+Hackathon 2025 on an ISRO problem statement.
 
-**🎯 End-to-End MVP Delivery**
-From idea to production, solo: system design → full-stack build → Dockerized deployment → AWS hosting → CI/CD automation. That's how Maitri AI and the Real Estate SaaS Platform below went from concept to shipped product.
+role         Full Stack Engineer (Full Stack + DevOps)
+working_at   Maxcode IT Solutions
+stack        MERN · Next.js · TypeScript · AWS · Docker · CI/CD
+based_in     Indore, India
+status       open to full-stack + devops roles
 
-> ⚡ **Philosophy** — *I don't build todo apps. I build systems that ship.*
+philosophy   "I don't build todo apps. I build systems that ship."
+```
 
-</td></tr>
-</table>
+---
 
-<br>
+### `$ ls -la skills/`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E8112D&height=3&width=1000" width="100%"/>
+```
+languages/      TypeScript, JavaScript, Python
+frontend/       Next.js, React, Tailwind CSS
+backend-data/   Node.js, Express, MongoDB, Firebase
+cloud-devops/   AWS, Docker, GitHub Actions, Linux, Git
+ai-ml/          TensorFlow.js
+```
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+### `$ cat projects.log`
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" />
+```
+[2025] maitri-ai           AI assistant for astronaut well-being — offline
+                           multimodal system (voice + facial analysis).
+                           SIH 2025 National Winner (ISRO). Python.
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+[2025] real-estate-saas    Production-grade property management platform —
+                           CRM, lead tracking, bookings, billing, 5 role
+                           types, live dashboards. Solo, schema to cloud.
+                           Next.js 15 · React 19 · TypeScript · Firebase.
 
-**Backend & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+[2025] tedxipsa-website    Official TEDxIPSA site, built solo, live.
+                           MERN stack.
 
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&theme=dark" />
+[ ... ]  +8 more           Hackathon builds & full-stack experiments —
+                           see pinned repos.
+```
 
-**AI/ML**
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+---
 
-</div>
-
-<br>
-
-<img src="./assets/banner-journey.svg" width="100%"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E8112D&height=3&width=1000" width="100%"/>
-
-## 🚀 What I Actually Build
-
-<div align="center">
-
-*Not todo apps. Not weather widgets. Real products with real auth, real roles, real data.*
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Maitri AI
-**AI Assistant for Astronaut Well-Being**
-*SIH 2025 — National Winner (ISRO)*
-
-Offline multimodal AI system monitoring astronauts' psychological & physiological health via voice tone analysis and facial expression detection. Zero internet dependency — built for space missions.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=E8112D"/> <img src="https://img.shields.io/badge/Multimodal_AI-000000?style=flat-square&logoColor=E8112D"/> <img src="https://img.shields.io/badge/Offline_ML-000000?style=flat-square&logoColor=E8112D"/> <img src="https://img.shields.io/badge/Emotion_Detection-000000?style=flat-square&logoColor=E8112D"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Real Estate SaaS Platform
-**Production-grade. Not a demo. Shipped end-to-end.**
-
-Full property management platform — CRM workflows, lead tracking, booking systems, subscription billing. Role-based access across 5 user types with live analytics dashboards. Designed, built, and deployed solo — from schema design to cloud hosting.
-
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=E8112D"/> <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=E8112D"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=E8112D"/> <img src="https://img.shields.io/badge/TensorFlow.js-000000?style=flat-square&logo=tensorflow&logoColor=E8112D"/> <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=E8112D"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=E8112D"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 TEDxIPSA Official Website
-**Built solo. Live. Serving the Indore TEDx community.**
-
-<img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logoColor=E8112D"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 More on GitHub
-Check out my pinned repos for AI integrations, hackathon builds, and full-stack experiments I'm shipping right now.
-
-<img src="https://img.shields.io/badge/%2B_8_Hackathon_Projects-000000?style=flat-square&logoColor=E8112D"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E8112D&height=3&width=1000" width="100%"/>
-
-## 📊 GitHub Analytics
+### `$ stats --show`
 
 <div align="center">
 
@@ -157,37 +97,39 @@ Check out my pinned repos for AI integrations, hackathon builds, and full-stack 
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E8112D&height=3&width=1000" width="100%"/>
+### `$ cat trophies.log`
 
-## 🏆 Achievements
+```
+[NATIONAL WINNER]   Smart India Hackathon 2025 — ISRO problem statement
+[TOP 90 / 5000+]    Web Dev Battle — IIT BHU
+[WINNER · 2026]     UDAAN — B.Tech Major Project
+[WINNER · 2025]     UDAAN — B.Tech Minor Project
+[FINALIST]          Hack the Mountains 5.0 — Marwadi University
+[FINALIST]          MUJHackX — Manipal University Jaipur
+```
+
+---
+
+### `$ tail -f status.log`
+
+```
+[now] shipping full-stack + AI projects at Maxcode IT Solutions
+[now] deepening AWS & DevOps practice — CI/CD, containers, cloud deployment
+[now] actively looking for full-stack + devops roles
+[now] posting dev content @thecurlyycoder on instagram
+[now] open to freelance projects — reach out if something's interesting
+```
+
+---
 
 <div align="center">
 
-| | Event | Result |
-|:---:|---|---|
-| 🥇 | Smart India Hackathon 2025 (ISRO problem statement) | **National Winner** |
-| 🏆 | Web Dev Battle — IIT BHU | **Top 90 / 5000+** |
-| 🥇 | UDAAN — B.Tech Major Project | **Winner (2026)** |
-| 🥇 | UDAAN — B.Tech Minor Project | **Winner (2025)** |
-| 🏅 | Hack the Mountains 5.0 | Marwadi University |
-| 🏅 | MUJHackX | Manipal University Jaipur |
+```
+$ contact --send
+```
+
+If you have a project, a role, or just want to talk tech — my inbox is always open.
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E8112D&height=3&width=1000" width="100%"/>
-
-## 📍 Currently
-
-- 🔨 Shipping full-stack + AI projects at **Maxcode IT Solutions**
-- ☁️ Deepening my **AWS & DevOps** practice — CI/CD, containers, and cloud deployment
-- 🎯 Actively looking for **Full Stack + DevOps** roles — open to full-time opportunities
-- 📱 Creating dev content at **[@thecurlycoder](https://instagram.com/thecurlyycoder)** on Instagram
-- 💼 Also open to **freelance projects** — reach out if you have something interesting
-
-<br>
-
-<img src="./assets/banner-contact.svg" width="100%"/>
