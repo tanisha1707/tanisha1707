@@ -59,46 +59,6 @@ ai-ml/          TensorFlow.js
 
 ---
 
-### `$ cat projects.log`
-
-```
-[2025] maitri-ai           AI assistant for astronaut well-being — offline
-                           multimodal system (voice + facial analysis).
-                           SIH 2025 National Winner (ISRO). Python.
-
-[2025] real-estate-saas    Production-grade property management platform —
-                           CRM, lead tracking, bookings, billing, 5 role
-                           types, live dashboards. Solo, schema to cloud.
-                           Next.js 15 · React 19 · TypeScript · Firebase.
-
-[2025] tedxipsa-website    Official TEDxIPSA site, built solo, live.
-                           MERN stack.
-
-[ ... ]  +8 more           Hackathon builds & full-stack experiments —
-                           see pinned repos.
-```
-
----
-
-### `$ stats --show`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanisha1707&show_icons=true&hide_border=true&bg_color=000000&title_color=E8112D&icon_color=E8112D&text_color=C9D1D9&ring_color=E8112D" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha1707&layout=compact&hide_border=true&bg_color=000000&title_color=E8112D&text_color=C9D1D9&langs_count=8" width="41%"/>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tanisha1707/tanisha1707/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-</div>
-
----
-
 ### `$ cat trophies.log`
 
 ```
